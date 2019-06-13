@@ -1,0 +1,14 @@
+4
+Bucharest
+Ploiesti
+Brasov
+Craiova
+Bucharest
+Ploiesti
+1
+Ploiesti
+Brasov
+3
+Bucharest
+Craiova
+3
